@@ -1,4 +1,4 @@
-Hi. Im Kalyan , a recent MSBA graduate trying to learn about technical aspects of ML/AI and Data to kickstart a career in Analytics. 
+Hi. Im Kalyan , a recent MSBA graduate (Suffolk University Boston, MA) trying to learn about technical aspects of ML/AI and Data to kickstart a career in Analytics. 
 - Im currently working on building insightful interfaces for analysing data with sentiment analysis using LLMs
 - Im currently learning various AI frameworks like pytorch to implement ML/AI algorithms which can aid in data exploration and predictive analytucs
 - I have been a musician basically my whole life. Im looking to collaborate with people who are intereseted is using AI to build products that can help
